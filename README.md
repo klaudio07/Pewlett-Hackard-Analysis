@@ -31,7 +31,7 @@ Module 7
 
 -  Below are the titles that will retire and what should be the focus of HR team.
 
-# count	title
+*count	title*
 
 29414	    Senior Engineer
 
